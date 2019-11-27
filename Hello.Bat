@@ -1,2 +1,2 @@
-1. echo "Hello Word %date% : %time%"
-2. echo "I am feature"
+echo "Hello Word %date% : %time%"
+echo "I am feature"
